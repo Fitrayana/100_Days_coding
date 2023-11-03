@@ -5,7 +5,7 @@ public class LuasJajarGenjang {
         // Membuat objek Scanner untuk mengambil input dari pengguna
         Scanner input = new Scanner(System.in);
 
-        // Meminta pengguna memasukkan panjang dan lebar jajar genjang
+        //Memasukkan panjang dan lebar jajar genjang
         System.out.print("Masukkan panjang jajar genjang: ");
         double panjang = input.nextDouble();
 
