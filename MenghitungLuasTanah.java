@@ -19,7 +19,6 @@ public class HitungLuasTanah {
       
         System.out.println("Luas tanah adalah: " + luas + " meter persegi");
 
-  
         scanner.close();
     }
 }
